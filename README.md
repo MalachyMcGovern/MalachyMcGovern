@@ -1,6 +1,6 @@
 ![Header image](https://github.com/MalachyMcGovern/About-Me/blob/main/Hi%20I%20am%20Mal!2.jpg.png)
 ## About me
-- 🔭 I’m currently working on my career as a marketing data analyst
+- 🔭 I’m currently working on my career as a data analyst
 - 🌱 I’m currently learning to expand my knowledge on machine learning techniques
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I played NCAA D1 Men's soccer for 6 years! ⚽
