@@ -13,5 +13,3 @@ These are some of my favourite languages:
 |     2| Python    |2      |
 |     3| SQL       |2      |
 |     4| SAS       |1      |
-
-As you can see, I am no software engineer! :stuck_out_tongue_closed_eyes:
